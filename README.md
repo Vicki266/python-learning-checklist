@@ -4,6 +4,7 @@ python learning checklist (for python2)
 # Python Basics
 ## Builtin Functions
 https://docs.python.org/2/library/functions.html
+Builtin functions are automatically imported. No need to explicitly import them yourself. No need to read them all at once. Know that it exists and read the doc if you see them in code.
 
 ## Collections
 A standard python library that provides extensions to general purpose built-in containers, dict, list, set, and tuple. https://docs.python.org/2/library/collections.html
