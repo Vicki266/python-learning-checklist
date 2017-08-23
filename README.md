@@ -11,7 +11,7 @@ Builtin functions are automatically imported. No need to explicitly import them 
 A standard python library that provides extensions to general purpose built-in containers, dict, list, set, and tuple. https://docs.python.org/2/library/collections.html
 
 ### Iterators
-What are iterators? Why do I need them?
+What are iterators? Why do I need them?  
 http://anandology.com/python-practice-book/iterators.html
 
 Itertools: a standard python library that provides utility functions to build iterators.
