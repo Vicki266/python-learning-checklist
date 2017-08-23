@@ -12,6 +12,7 @@ A standard python library that provides extensions to general purpose built-in c
 
 ### Iterators
 What are iterators? Why do I need them?
+http://anandology.com/python-practice-book/iterators.html
 
 Itertools: a standard python library that provides utility functions to build iterators.
 https://docs.python.org/2/library/itertools.html
