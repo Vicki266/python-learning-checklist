@@ -34,6 +34,7 @@ http://pandas.pydata.org/pandas-docs/stable/10min.html
 http://pandas.pydata.org/pandas-docs/stable/tutorials.html
 
 ### Cookbook (CheatSheet)
-http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook
+http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook 
+https://github.com/jvns/pandas-cookbook
 
 ## Scikit-learn
