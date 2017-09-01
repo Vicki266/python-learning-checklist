@@ -39,4 +39,4 @@ https://github.com/jvns/pandas-cookbook
 
 ## Scikit-learn
 ### Documentation
-http://scikit-learn.org/stable/index.html
+http://scikit-learn.org/stable/user_guide.html
