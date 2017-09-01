@@ -38,3 +38,5 @@ http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook
 https://github.com/jvns/pandas-cookbook
 
 ## Scikit-learn
+### Documentation
+http://scikit-learn.org/stable/index.html
