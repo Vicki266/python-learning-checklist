@@ -2,6 +2,15 @@
 python learning checklist (for python2)
 
 ## Python Basics
+### Mutable vs Immutable
+| Mutable | Immutable |
+|---------|-----------|
+| list    |  str      |
+| dict    |  tuple    |
+| set     |  int      |
+|         |  float    |
+
+
 ### Builtin Functions
 https://docs.python.org/2/library/functions.html
 
@@ -13,9 +22,9 @@ A standard python library that provides extensions to general purpose built-in c
 ### Iterators
 What are iterators? Why do I need them?  
 http://anandology.com/python-practice-book/iterators.html .    
-It's a way to loop through a list without creating the list. It's time and space saving. 
+It's a way to loop through a list without creating the list. It will generate the next value when needed. It's time and space saving. 
 
-Itertools: a standard python library that provides utility functions to build iterators.
+Itertools: a collection of functions to create iterators. 
 https://docs.python.org/2/library/itertools.html
 
 First 2 chapters of **Effective Python**.
